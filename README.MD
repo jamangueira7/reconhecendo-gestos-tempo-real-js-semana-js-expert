@@ -7,19 +7,7 @@
 
 <br>
 
-<p align="center">
-  <img alt="app" src=".github/beginning.png" width="500px" height="500px">
-</p>
-
-<p align="center">
-  <img alt="app" src=".github/winner.png" width="500px" height="500px">
-</p>
-
-<p align="center">
-  <img alt="app" src=".github/game_over.png" width="500px" height="500px">
-</p>
-
-## Pacman JS
+## Reconhecendo gestos em tempo real direto do navegador
 
 ## 🚀 Tecnologias
 
@@ -32,9 +20,25 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Jogo do Pacman.
+Reconhecendo gestos em tempo real direto do navegador - Machine Learning para Web Developers.
 
-Inspirado na video aula do canal - [Servet Gulnaroglu](https://www.youtube.com/watch?v=GXlckaGr0Eo&t=28s)
+[Gravação de tela de 28-02-2023 11:53:09.webm](.github%2FGrava%C3%A7%C3%A3o%20de%20tela%20de%2028-02-2023%2011%3A53%3A09.webm)
+
+![img.png](.github%2Fimg.png)
+<p align="center">
+  <img alt="app" src=".github/beginning.png" width="500px" height="500px">
+</p>
+
+<p align="center">
+  <img alt="app" src=".github/winner.png" width="500px" height="500px">
+</p>
+
+<p align="center">
+  <img alt="app" src=".github/game_over.png" width="500px" height="500px">
+</p>
+
+Inspirado na video aula do canal - [
+Erick Wendel](https://www.youtube.com/watch?v=MeS6dX2a2zQ&list=PLqFwRPueWb5ewzF4F6dzCFHZp8FJVu9VU&index=2)
 
 ## 🚀 Como Rodar
 
