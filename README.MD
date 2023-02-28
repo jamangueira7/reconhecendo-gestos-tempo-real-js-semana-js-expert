@@ -22,7 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Reconhecendo gestos em tempo real direto do navegador - Machine Learning para Web Developers.
 
-![Gravação de tela de 28-02-2023 11:53:09.webm](.github%2FGrava%C3%A7%C3%A3o%20de%20tela%20de%2028-02-2023%2011%3A53%3A09.webm)
+![Gravação de tela de 28-02-2023 11_53_09.gif](.github%2FGrava%C3%A7%C3%A3o%20de%20tela%20de%2028-02-2023%2011_53_09.gif)
 
 ![img.png](.github%2Fimg.png)
 ![img_1.png](.github%2Fimg_1.png)
